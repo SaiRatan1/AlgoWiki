@@ -6,14 +6,14 @@ category: Frameworks
 Resources For Learning Nodejs
 ==================================
 
-##Index
-*[What is Nodejs?](#what-is-nodejs)
-*[Where to use Nodejs?](#where-to-use-nodejs)
-*[Advantages of using Nodejs over other frameworks](#advantages-of-using-nodejs-over-other-frameworks)
-*[Blogs for Beginners](#blogs-for-beginners)
-*[PDF Books For Node.js](#pdf-books-for-nodejs)
-*[Video tutorials for learning Node.js](#video-tutorials-for-learning-nodejs)
-*[Github repos and interactive tutorials for learning Node.js](github-repos-and-interactive-tutorials-for-learning)
+## Index
++ *[What is Nodejs?](#what-is-nodejs)
++ *[Where to use Nodejs?](#where-to-use-nodejs)
++ *[Advantages of using Nodejs over other frameworks](#advantages-of-using-nodejs-over-other-frameworks)
++ *[Blogs for Beginners](#blogs-for-beginners)
++ *[PDF Books For Node.js](#pdf-books-for-nodejs)
++ *[Video tutorials for learning Node.js](#video-tutorials-for-learning-nodejs)
++ *[Github repos and interactive tutorials for learning Node.js](github-repos-and-interactive-tutorials-for-learning)
 
 ## What is Nodejs?
 ----------------
