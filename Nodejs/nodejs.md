@@ -6,13 +6,13 @@ category: Frameworks
 Resources For Learning Nodejs
 ==================================
 
-Index<br>
+<b>Index<b><br>
 > What is Nodejs?<br>
-> Where to use Nodejs?
-> Advantages of using Nodejs over other frameworks
-> Blogs for Beginners
-> PDF Books For Node.js
-> Video tutorials for learning Node.js
+> Where to use Nodejs?<br>
+> Advantages of using Nodejs over other frameworks<br>
+> Blogs for Beginners<br>
+> PDF Books For Node.js<br>
+> Video tutorials for learning Node.js<br>
 
 ## What is Nodejs?
 ----------------
