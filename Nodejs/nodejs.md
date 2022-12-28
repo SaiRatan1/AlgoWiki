@@ -42,13 +42,13 @@ Node.js is a platform built on Chrome's JavaScript runtime for easily building f
 	+ [Making a local library webapp using Node,MongoDB and express library](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 
 ## PDF Books For Node.js [Downloadable Links]
-	+ [Web Development with Nodejs,MongoDB](http://www.allitebooks.com/web-development-with-mongodb-and-nodejs/)
-	+ [Instant Nodejs](http://www.allitebooks.com/instant-node-js-starter/)
-	+ [Programming Web Applications with Node, Express and Pug](http://www.allitebooks.com/programming-web-applications-with-node-express-and-pug/)
-	+ [Nodejs Essentials](http://www.allitebooks.com/node-js-essentials/)
-	+ [Buliding APIs with Nodejs](http://www.allitebooks.com/building-apis-with-node-js/)
-	+ [Learning Node](http://www.allitebooks.com/learning-node-2nd-edition/)
-	+ [Nodejs Design Patterns](http://www.allitebooks.com/node-js-design-patterns/)
+	- [Web Development with Nodejs,MongoDB](http://www.allitebooks.com/web-development-with-mongodb-and-nodejs/)
+	- [Instant Nodejs](http://www.allitebooks.com/instant-node-js-starter/)
+	- [Programming Web Applications with Node, Express and Pug](http://www.allitebooks.com/programming-web-applications-with-node-express-and-pug/)
+	- [Nodejs Essentials](http://www.allitebooks.com/node-js-essentials/)
+	- [Buliding APIs with Nodejs](http://www.allitebooks.com/building-apis-with-node-js/)
+	- [Learning Node](http://www.allitebooks.com/learning-node-2nd-edition/)
+	- [Nodejs Design Patterns](http://www.allitebooks.com/node-js-design-patterns/)
 
 ## Video tutorials for learning Node.js
 
