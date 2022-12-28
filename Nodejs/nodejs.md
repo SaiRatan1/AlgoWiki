@@ -35,7 +35,7 @@ Node.js is a platform built on Chrome's JavaScript runtime for easily building f
  + Node.js uses the V8 engine developed by Google which compiles JavaScript into native machine code and runs at lightning speed. Node.js does not jumble up with creating separate threads involving locking headache but it rather has single thread i.e. the event loop which is responsible for all the asynchronous I/O operations.
 
 
-## Blogs for Beginners
++ Blogs for Beginners
 	+ [Node.js for beginners](https://code.tutsplus.com/tutorials/nodejs-for-beginners--net-26314)
 	+ [Node.js tutorials](http://www.tutorialsteacher.com/nodejs/nodejs-tutorials)
 	+ [Node.js in 3 days](https://www.guru99.com/node-js-tutorial.html)
