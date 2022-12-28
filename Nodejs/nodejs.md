@@ -7,12 +7,14 @@ Resources For Learning Nodejs
 ==================================
 
 <b>Index<b><br>
-> What is Nodejs?<br>
-> Where to use Nodejs?<br>
-> Advantages of using Nodejs over other frameworks<br>
-> Blogs for Beginners<br>
-> PDF Books For Node.js<br>
-> Video tutorials for learning Node.js<br>
+<ul>
+<li>What is Nodejs?</li>
+<li>Where to use Nodejs?</li>
+<li>Advantages of using Nodejs over other frameworks</li>
+<li>Blogs for Beginners</li>
+<li>PDF Books For Node.js</li>
+<li>Video tutorials for learning Node.js</li>
+</ul>
 
 ## What is Nodejs?
 ----------------
